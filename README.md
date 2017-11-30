@@ -31,4 +31,3 @@ Charity Spree makes giving money fun, social and rewarding. By donating on Chari
 * **Amir Ghandeharioon** - [AmirGhan](https://github.com/AmirGhan)
 
 ## Acknowledgments
-
